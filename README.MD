@@ -1,0 +1,2 @@
+# GENERATE FROM ORGINAL GITHUB
+use with firefox
